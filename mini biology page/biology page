@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="wisth=device-width,initial scale=1.0">
+        <title>mini biography page</title> 
+    </head>
+<body>
+
+    <h1> mini biography: Dr. A.P.J. abdul Kalam</h1>
+    <p>Dr. A.P.J. abdul Kalam was as scientist, teacher, author, and former president of india</p>
+  
+    <h2>Early Life</h2>
+    <p> he was born in Rameswarm and grew up with curiosly, discipline, and love for learning .</p>
+  <p> <small> note: students can replace this person with any personality they admire.</small></p>
+  
+  <h2> important achivement </h2>
+  <p> he played a <strong> major role in india's space and missile programs </strong></p>
+  <p> he is remembered as the <em> people's president </em>because he inspired millions os students</p>
+  <p> one value that made him special was <mark> lifelong learning</mark></p>
+
+  <h2> correction corner </h2>
+  <p><s> he only worked as a scientist </s>he was also a teacher, writer, and leader</p>
+ 
+  <h2> interesting examples</h2>
+  <p> science reminds us  of formulas like<sub>2</sub>o and ideas like 10<sup>2</sup></p>
+  <p>he also encouraged students to become the 1<sup>st</sup>version of themselves, not a copy of someone else</p>
+
+ <h2> words that inspire</h2>
+ <p> he once  said <q> dream, dream, dream</q></p> 
+ <blockquote>
+     dreams transform into thoughts and thoughts result in action.
+    </blockquote>
+
+    <h3> my reflection </h3>
+    <p> i admire Dr.Kalam because he showed that knowledge, kindness, and hard work can change lives.</p>
+
+</body>
+</html>
+
+    
